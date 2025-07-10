@@ -67,7 +67,7 @@
 - NAVER Cloud Object Storage (S3 Compatible)
 - SMTP 기반 알림 메일 전송
 - Excel 파싱 (Apache POI)
-- MP4 마스킹 처리 (FFMPEG/OpenCV)
+- Video Resource 마스킹 처리 (FFMPEG/OpenCV)
 - AES-256 암복호화 모듈 구현
 
 ### ✅ Frontend (Vue.js)
