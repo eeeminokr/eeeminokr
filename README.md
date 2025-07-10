@@ -13,8 +13,8 @@
 <h1 align="center">👋 Hello, I'm Lee Minyoung</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeminyoung&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeminyoung&layout=compact&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=eeeminokr&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeeminokr&layout=compact&theme=tokyonight" height="170">
 </p>
 
 ---
