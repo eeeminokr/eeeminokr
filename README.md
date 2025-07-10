@@ -1,12 +1,13 @@
 <!--
 💡 README 사용 가이드
 
-✅ 아래 템플릿은 GitHub "Personal developer profile" 용입니다.
-    - 리포지토리명을 `leeminyoung` 또는 GitHub 계정명과 동일하게 설정하면 메인 화면에 README가 노출됩니다.
-    - 리포지토리 설정 → Template repository 체크되어 있어도 무방합니다.
-✅ GitHub 점수(C → B/A로 올리는 법)
-    - 커밋, pull request, star, follower 수치를 늘려야 자동으로 점수(grade)가 개선됩니다.
-    - 꾸준한 오픈소스 활동과 README 관리가 반영됩니다.
+✅ 이 템플릿은 GitHub "Personal developer profile"용입니다.
+    - 리포지토리 이름을 GitHub 계정명(`leeminyoung`)과 같게 하면 메인에 README가 노출됩니다.
+    - 설정에서 Template Repository는 체크 안 해도 무방합니다.
+
+✅ GitHub Grade(C→B→A) 향상 팁
+    - 커밋 수, Star 수, PR/Pull Request, Follower 수를 늘리면 자동 반영됩니다.
+    - 꾸준한 오픈소스 활동이 중요합니다 (최근 활동 반영 비중 높음).
 -->
 
 <h1 align="center">👋 Hello, I'm Lee Minyoung</h1>
@@ -22,9 +23,7 @@
 
 <div align="center">
 
-<!-- 💡 다크모드 최적화된 색상 및 순서 구성 -->
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -63,26 +62,25 @@
 
 ## 🔎 대표 프로젝트 소개 - BDSP ASD 플랫폼
 
-> **📦 Full-Stack 실무 경험 기반 리포지토리**  
-> BDSP ASD 플랫폼에서 기여한 모듈만 정리한 백엔드(Java Spring) + 프론트(Vue.js) 기반의 개인 포트폴리오입니다. 민감 정보는 모두 익명화되었으며 실서비스 기반 구조를 반영했습니다.
+> **📦 실무 기반 백엔드 + 프론트 통합 프로젝트 포트폴리오**  
+> 이 저장소는 민감정보를 익명화한 실제 실무 기반 모듈 구현 예시입니다.
 
 ### ✅ Backend (Spring Boot)
-
-- 사용자 인증 (JWT 기반)
-- 실험데이터 업로드 (EYE, FNIRS, 영상, 설문 등)
-- 설문 응답 수집 및 결과 저장 (M-CHAT)
-- SMTP 기반 이메일 알림
-- NAVER Cloud S3 업로드 처리 (AWS SDK)
-- Excel 파싱(Apache POI), MP4 마스킹(OpenCV, FFMPEG)
-- AES-256 기반 암복호화 모듈 포함
+- JWT 기반 로그인 인증 처리
+- EYETRACKING/FNIRS/Video/설문 데이터 업로드
+- M-CHAT 설문 결과 수집 및 저장
+- NAVER Cloud Object Storage (S3 Compatible)
+- SMTP 기반 알림 메일 전송
+- Excel 파싱 (Apache POI)
+- MP4 마스킹 처리 (FFMPEG/OpenCV)
+- AES-256 암복호화 모듈 구현
 
 ### ✅ Frontend (Vue.js)
-
-- 로그인 화면, 권한 처리
+- 로그인 및 권한 처리 화면
 - 프로젝트 등록/수정 모달
-- 실험데이터 Drag & Drop 업로드
-- 대시보드 통계 시각화 (Chart.js)
-- 반응형 모바일 대응 UI 구성
+- 실험 데이터 Drag & Drop 업로드
+- Chart.js 기반 통계 시각화
+- 모바일 대응 컴포넌트 구성
 
 ---
 
@@ -97,7 +95,7 @@
 
 ## 📫 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/eeeminokr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/leeminyoung)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=gmail&logoColor=white)](mailto:dkdld522@gmail.com)
 
 ---
