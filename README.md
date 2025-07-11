@@ -88,6 +88,16 @@
 
 ---
 
+
+## 📘 기술 개념 정리 & 링크
+
+ 🔐 Spring & vues.js | [바로가기](https://ecoinsight.atlassian.net/wiki/x/zoBkBQ)
+ 🧵 openAPI 적용 & docker & pyhton  | 정리 [바로가기](https://1drv.ms/o/c/999fd04581fc00ca/Etra07_bpSlJpd9yXdsV9MkBWbN7AAQVhEARJ16cSdFRcg?e=zNUI3t)
+ 🧬 통계 chart 적용 기술  및 외 | [바로가기](https://ecoinsight.atlassian.net/wiki/spaces/~61c3d044125b1200713ae59f/overview) 
+---
+
+
+
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/leeminyoung)
