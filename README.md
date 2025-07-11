@@ -51,7 +51,7 @@
 | [📁 NRCD](https://github.com/eeeminokr/leeminyoung-dementia-bio) | 치매/노인 대상 실험 설계 및 데이터 수집 시스템 |
 | [📁 SkinQurator](https://github.com/eeeminokr/leeminyoung-skin-platform) | Vue.js 기반 피부 진단 결과 시각화 |
 | [📁 FTA 연계 시스템](https://github.com/leeminyoung/glovis-fta-api-sample) | FTA JSON 연계 시스템 (Spring/iBatis 기반) |
-| [📁 BrainBrowser Viewer](https://github.com/eeeminokr/leeminyoung-asd-bio) | Vue 기반 뇌 영상 NIfTI Viewer 구축 |
+| [📁 AI 분석 수집 데이터 naver cloud 연계 및 BrainBrowser Viewer](https://github.com/eeeminokr/leeminyoung-asd-bio) | Vue 기반 뇌 영상 NIfTI Viewer 구축 |
 
 ---
 
