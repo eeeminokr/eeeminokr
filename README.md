@@ -96,8 +96,9 @@
  🧬 통계 chart 적용 기술  및 외 | [바로가기](https://ecoinsight.atlassian.net/wiki/spaces/~61c3d044125b1200713ae59f/overview) 
 ---
 
+🧑‍💻 Profile 링크 : https://moaisbest.notion.site/LEE-MINYOUNG-Profile-22b33d8d5816804baec9ee07baa77929?pvs=143
 
-
+--- 
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/leeminyoung)
